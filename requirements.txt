@@ -1,0 +1,6 @@
+numpy==1.19.5
+opencv-python==4.5.1.48
+torch==1.2.0
+torchvision==0.4.0
+ptflops==0.6.4
+scikit-image==0.17.2
