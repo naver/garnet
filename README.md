@@ -1,6 +1,6 @@
 # The Surprisingly Straightforward Scene Text Removal Method With Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis
 
-> The Surprisingly Straightforward Scene Text Removal Method With Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis | [Paper (ready...)](link) | [Supplementary (ready...)](link) \
+> The Surprisingly Straightforward Scene Text Removal Method With Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis | [Paper and Supplementary](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4705_ECCV_2022_paper.php) \
 > Hyeonsu Lee, Chankyu Choi \
 > Naver Corp. \
 > In ECCV 2022.
