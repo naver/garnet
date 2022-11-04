@@ -121,6 +121,7 @@ For Inference
 # Citation
 Please cite our paper if this work is useful for your research.
 
+```
 @inproceedings{lee2022surprisingly,
   title={The Surprisingly Straightforward Scene Text Removal Method with Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis},
   author={Lee, Hyeonsu and Choi, Chankyu},
@@ -129,6 +130,7 @@ Please cite our paper if this work is useful for your research.
   year={2022},
   organization={Springer}
 }
+```
 
 # License
 GaRNet is licensed under Apache-2.0. See [LICENSE](/LICENSE) for the full license text.
