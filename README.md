@@ -40,7 +40,7 @@ We provide subset information of combined dataset.
   
   : bg_img: https://github.com/ankush-me/SynthText
 
-* Subset information of Oxford Synthetic dataset is in .json file which exisit in [link (ready...)](link)
+* Subset information of Oxford Synthetic dataset is in .json file which exisit in [link](https://drive.google.com/drive/folders/1CewJe9BYfgpOYC5QkfsVwiXZC8ws_n77?usp=share_link)
   - you have to move that .json file to DATA/JSON/SYN
 * The json file of SCUT-EnsText is in DATA/JSON/REAL
 * For evaluation, SynthText must be placed in ./DATA/SYN and SCUT-EnsText in ./DATA/REAL
@@ -49,7 +49,7 @@ We provide subset information of combined dataset.
 
 We provide the weight of EnsNet, MTRNet, MTRNet++, EraseNet and Our's trained on our combined dataset.
 
-* You can find pre-trained models in [drive (ready...)]()
+* You can find pre-trained models in [drive](https://drive.google.com/drive/folders/18bLTPXHSfjjITCDbp9599S3yMwjg6imX?usp=share_link)
 
 ### Instructions for Comparison between Related works (Table 2 and 3 in the paper)
 
