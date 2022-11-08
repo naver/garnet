@@ -49,7 +49,15 @@ We provide subset information of combined dataset.
 
 We provide the weight of EnsNet, MTRNet, MTRNet++, EraseNet and Our's trained on our combined dataset.
 
-* You can find pre-trained models in [drive](https://drive.google.com/drive/folders/18bLTPXHSfjjITCDbp9599S3yMwjg6imX?usp=share_link)
+* You can find pre-trained models in below.
+
+| Method | pre-trained model |
+| ------ | ----------------- |
+| EnsNet | [saved_mode.pth](https://drive.google.com/drive/folders/1TchX63jEPCYu4i3RORBt9KLByzByxH2l?usp=share_link) |
+| MTRNet | [saved_mode.pth](https://drive.google.com/drive/folders/1fOLAafC52NYfCp03wi2JKuURoqPrPYCK?usp=share_link) |
+| MTRNet++ | [saved_mode.pth](https://drive.google.com/drive/folders/1yRG6hfBhNTf0Z2mbWNV0_LUHEGfIpb_M?usp=share_link) |
+| EraseNet | [saved_mode.pth](https://drive.google.com/drive/folders/1F4sniaq_lKL2t1XPzNj8HJqnRYtsfNnC?usp=share_link) |
+| GaRNet | [link](https://huggingface.co/naverpapago/garnet) [![Generic badge](https://img.shields.io/badge/Hugging_face-model-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAMAAADHVLbdAAAB1FBMVEUAAAD//wD/gAD//wD/qgD/gAD/mQD/lQD/cwD/gAD/VQD/gwD/gwD/fQD/gAD/ggD/kAT/kQT/jAP/igP/jQP/mQj/lwj/mgj/mAj/lwj/lgj/lgf/lQf/mAf/ngv/nAr/og3/nQv/nwv/ogz/ow7/mQr/og7/mgn/ngz/oAz/qA//oQz/ow3/ogz/og7/pQ7/qQ//sxT/wRn/wRn/yRv/2R//1x7+1iD/wRj/0x/9yRz9yR3+sxT+wBj/vBT/vhL/1B7/1R//1hn+sxT+sxX+1R//txX/1h7/1x/+2CD/thT/wxj/xBn/0xz/1x//2B/1xiH+tRT+xxv+0B3/yBv/zRz/0x0AAEYoF0ZCRUNHSEOadT2tkTjKqDHRrS/SsS/UgzvXti7YkzfaryznMkDqsSTswyfuxCXuxSXxxiTzySP0vBv2vB73yyL7wRf+uBb+wBj+wBn+0B7/qxD/rA//shH/sxH/tBP/tRL/tRP/uRb/vxb/vxf/vxj/wRn/wxj/xBf/xBj/xBn/xRb/yBj/yhr/zBz/zRv/zhn/zhv/zxj/zxv/0R7/0hz/0h3/0xf/0xz/0x3/0yD/1B7/1R3/1xn/1xz/1x3/1x7/2Bv/2B7/2heiCzHGAAAAV3RSTlMAAQICAwQKDBQUFSElLzA3PkFJSkpfYGJjZWZrb29xgYmNkJGTnqWrq6y2uMXOztvp6u7v7/f5+vr6+/v7+/v7+/v7/Pz8/Pz8/f39/f39/f7+/v7+/v5qcb7+AAAA2UlEQVR42h2IA2LEABBFX+qmTm3btm3btm1rbR52NfMN+EJYcmpiCPjgqUGFD/+a3568QNfgQnCZYaS9rX3EUBqAF1BkqZlUKWYmq835eEPkS8fm/K59ZWFs+DQUSNe3bq9faI9Xj1qUSUCOrdu6c2Dc2zfV2jKAtK8G9dLc4uyyuvEtBYTcm6arw7WtjZPLzutsgYj75qfzuz+d7Pbsue4+nNiByqGfia7erqnpwYrxaOI+q+r7Rh+/H/v76qs+Y/DPKv+Qv5YUFL/LP8oz/QBRSpCAqHhJBCdMjDXEp+AbAgAAAABJRU5ErkJggg==)](https://huggingface.co/naverpapago/garnet) |
 
 Note that all models are pre-trained with Synthetic datasets and SCUT-EnsText, and the SCUT-EnsText dataset can only be used for non-commercial research purposes.
 
