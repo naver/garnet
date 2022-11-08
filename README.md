@@ -51,7 +51,7 @@ We provide the weight of EnsNet, MTRNet, MTRNet++, EraseNet and Our's trained on
 
 * You can find pre-trained models in [drive](https://drive.google.com/drive/folders/18bLTPXHSfjjITCDbp9599S3yMwjg6imX?usp=share_link)
 
-Note that all models are pre-trained by Synthetic datasets and SCUT-EnsText, and the SCUT-EnsText dataset can only be used for non-commercial research purposes.
+Note that all models are pre-trained with Synthetic datasets and SCUT-EnsText, and the SCUT-EnsText dataset can only be used for non-commercial research purposes.
 
 ### Instructions for Comparison between Related works (Table 2 and 3 in the paper)
 
